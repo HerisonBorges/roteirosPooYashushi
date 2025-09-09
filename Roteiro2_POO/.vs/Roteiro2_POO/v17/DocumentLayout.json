@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ProjetosC#\\Roteiro1_POO\\Roteiro2_POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1138CE-B424-4564-AB05-AD5659C7CF7F}|Roteiro2_POO\\Roteiro2_POO.csproj|e:\\projetosc#\\roteiro1_poo\\roteiro2_poo\\roteiro2_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1138CE-B424-4564-AB05-AD5659C7CF7F}|Roteiro2_POO\\Roteiro2_POO.csproj|solutionrelative:roteiro2_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ProjetosC#\\Roteiro1_POO\\Roteiro2_POO\\Roteiro2_POO\\Program.cs",
+              "RelativeDocumentMoniker": "Roteiro2_POO\\Program.cs",
+              "ToolTip": "E:\\ProjetosC#\\Roteiro1_POO\\Roteiro2_POO\\Roteiro2_POO\\Program.cs",
+              "RelativeToolTip": "Roteiro2_POO\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:44:04.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

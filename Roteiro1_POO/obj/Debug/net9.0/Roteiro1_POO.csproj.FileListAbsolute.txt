@@ -1,0 +1,14 @@
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\bin\Debug\net9.0\Roteiro1_POO.exe
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\bin\Debug\net9.0\Roteiro1_POO.deps.json
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\bin\Debug\net9.0\Roteiro1_POO.runtimeconfig.json
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\bin\Debug\net9.0\Roteiro1_POO.dll
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\bin\Debug\net9.0\Roteiro1_POO.pdb
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\obj\Debug\net9.0\Roteiro1_POO.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\obj\Debug\net9.0\Roteiro1_POO.AssemblyInfoInputs.cache
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\obj\Debug\net9.0\Roteiro1_POO.AssemblyInfo.cs
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\obj\Debug\net9.0\Roteiro1_POO.csproj.CoreCompileInputs.cache
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\obj\Debug\net9.0\Roteiro1_POO.dll
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\obj\Debug\net9.0\refint\Roteiro1_POO.dll
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\obj\Debug\net9.0\Roteiro1_POO.pdb
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\obj\Debug\net9.0\Roteiro1_POO.genruntimeconfig.cache
+E:\ProjetosC#\Roteiro1_POO\Roteiro1_POO\obj\Debug\net9.0\ref\Roteiro1_POO.dll
