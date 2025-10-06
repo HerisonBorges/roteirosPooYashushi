@@ -1,0 +1,15 @@
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\bin\Debug\net9.0\Roteiro5_POO.exe
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\bin\Debug\net9.0\Roteiro5_POO.deps.json
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\bin\Debug\net9.0\Roteiro5_POO.runtimeconfig.json
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\bin\Debug\net9.0\Roteiro5_POO.dll
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\bin\Debug\net9.0\Roteiro5_POO.pdb
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\obj\Debug\net9.0\Roteiro5_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\obj\Debug\net9.0\Roteiro5_POO.AssemblyInfoInputs.cache
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\obj\Debug\net9.0\Roteiro5_POO.AssemblyInfo.cs
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\obj\Debug\net9.0\Roteiro5_POO.csproj.CoreCompileInputs.cache
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\obj\Debug\net9.0\Roteiro5_POO.sourcelink.json
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\obj\Debug\net9.0\Roteiro5_POO.dll
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\obj\Debug\net9.0\refint\Roteiro5_POO.dll
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\obj\Debug\net9.0\Roteiro5_POO.pdb
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\obj\Debug\net9.0\Roteiro5_POO.genruntimeconfig.cache
+C:\Users\Thoor\Desktop\RoteirosPOO\Roteiro5_POO\Roteiro5_POO\obj\Debug\net9.0\ref\Roteiro5_POO.dll
